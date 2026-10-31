@@ -100,7 +100,7 @@ To update any text or add new projects, simply edit this single file and the ent
    git add .
    git commit -m "Initial commit: Jalla Siva Yaswanth portfolio"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
+   git remote add origin https://github.com/SivaYaswanth-2201/portfolio.git
    git push -u origin main
    ```
 2. Log in to [Vercel](https://vercel.com).

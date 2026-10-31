@@ -21,7 +21,7 @@ export const personalInfo = {
   profileImage: "/profile.jpeg",
   resumeUrl: "/resume.pdf",
   resumeFileName: "Jalla_Siva_Yaswanth_Resume.pdf",
-  github: "https://github.com/yaswanthjalla",
+  github: "https://github.com/SivaYaswanth-2201",
   linkedin: "https://www.linkedin.com/in/siva-yaswanth-6625b6277",
   
   careerObjective: 
@@ -103,7 +103,7 @@ export const projectsData = [
       "Designed an interactive Streamlit web dashboard for seamless resume upload, candidate evaluation, and automated shortlisting."
     ],
     techStack: ["Python", "Streamlit", "NLP", "TF-IDF", "Scikit-Learn"],
-    githubUrl: "https://github.com/yaswanthjalla",
+    githubUrl: "https://github.com/SivaYaswanth-2201",
     liveUrl: "#",
     featured: true,
     accent: "signal"
@@ -122,7 +122,7 @@ export const projectsData = [
       "Designed responsive UI with HTML5, CSS3/Tailwind, and JavaScript for seamless shopping across all devices."
     ],
     techStack: ["Python", "Django", "MySQL", "JavaScript", "HTML5/CSS3"],
-    githubUrl: "https://github.com/yaswanthjalla",
+    githubUrl: "https://github.com/SivaYaswanth-2201",
     liveUrl: "#",
     featured: true,
     accent: "blue"
@@ -141,7 +141,7 @@ export const projectsData = [
       "Structured with clear API documentation, HTTP status codes, and error payloads for smooth frontend integration."
     ],
     techStack: ["Python", "Django REST Framework", "MySQL", "Postman", "JWT"],
-    githubUrl: "https://github.com/yaswanthjalla",
+    githubUrl: "https://github.com/SivaYaswanth-2201",
     liveUrl: "#",
     featured: false,
     accent: "emerald"
